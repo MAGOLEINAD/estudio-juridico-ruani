@@ -1,0 +1,14 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# PSD files
+*.psd
+
+# Documentation (template docs, not needed for deploy)
+documentation/
+
+# Personal images not part of the site
+humbertowide.jpg
+popycv.jpg
+popywide.jpg
