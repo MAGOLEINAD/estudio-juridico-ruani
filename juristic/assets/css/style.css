@@ -4579,6 +4579,7 @@ img {
 .contact-section-s2 form textarea,
 .contact-section-s3 form textarea {
   background: #262b3e;
+  color: #fff;
   width: 100%;
   height: 55px;
   border: 2px solid rgba(255, 255, 255, 0.2);
